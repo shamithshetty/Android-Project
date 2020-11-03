@@ -1,7 +1,20 @@
 # My App(Android Internship Assignment)
+
  
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+load MyApp.zip file to view the code
+## Feature
+```
+ -Login and Logout 
+ -Sign in and sign out
+ -complete validation
+ -My profile
+ -My profile update
+ -Navigation drawer
+ -tab
+ -recycleview with de;ete item option
+```
     -IDE: android studio 3.5
     -Android version : Lollipop 5.0-5.1.1
     -Database :SQL lite
